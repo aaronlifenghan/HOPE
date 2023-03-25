@@ -23,8 +23,7 @@ For comercial usage, please contact: @copyright Logrus Global <serge.gladkoff [a
 ------------------------
 Reference:
 
-HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation
-S Gladkoff, L Han - arXiv preprint arXiv:2112.13833, 2021
+Gladkoff, Serge, and Lifeng Han. "Hope: A task-oriented and human-centric evaluation framework using professional post-editing towards more effective mt evaluation." arXiv preprint arXiv:2112.13833 (2021).
 
 @article{DBLP:journals/corr/abs-2112-13833,
   author    = {Serge Gladkoff and
