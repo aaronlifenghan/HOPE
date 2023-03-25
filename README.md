@@ -1,6 +1,6 @@
 # HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation
 
-<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Arabic.png" width=100>
+<img src="https://github.com/aaronlifenghan/HOPE/blob/main/HOPE-metric-logo.png" width=100>
 
 
 Place holder for data sharing for translation evaluation framework HOPE: a human-centric and task-oriented MT evaluation framework using professional post-editing
