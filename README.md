@@ -16,6 +16,7 @@ The approach has several key advantages, such as ability to measure and compare 
 **File instruction**: 
 "Test22-scoring-10-9-2021.xlsm": the 111 segments of English-to-Russian MT using GoogleMT and another System, including data of human offered reference translations, scoring sheeting using HOPE evaluation framework. 
 Open-source for non-profit research. 
+
 For comercial usage, please contact: @copyright Logrus Global <serge.gladkoff [at] logrusglobal.com> https://logrusglobal.com 
 
 **PPT-download, presentation and demo** [Here](https://drive.google.com/drive/folders/1lOSiMe3cFmzSt6vtovJGU6MZ8t2bs_0Y?usp=sharing) and [Here](https://drive.google.com/drive/folders/1sajkcrnDgTOFiYVkFjYqh9EDYUhneYqA?usp=sharing) 
